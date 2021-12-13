@@ -7,8 +7,3 @@ export const InvitationLayout = styled.div`
   width: 100vw;
   overflow-x: hidden;
 `;
-
-export const ParagraphGold = styled.h3`
-  text-align: center;
-  color: #938749;
-`;
